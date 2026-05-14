@@ -1,0 +1,9 @@
+Power BI Desktop — conexión sugerida
+=====================================
+
+1. Abra Power BI Desktop → Obtener datos → Más… → SQLite
+2. Ruta del archivo: apunte a la carpeta del proyecto:
+   Backend/taller_ux.db
+3. En el navegador, seleccione la tabla "registros" y cargue o transforme.
+
+Alternativa: exporte los registros a CSV desde SQLite (o use la app) e importe el CSV en Power BI.
