@@ -130,13 +130,11 @@ Pasos más detallados en `PowerBI/conexion_powerbi.txt`. El archivo **.pbix** de
 
 ## Entrega sugerida (GitHub)
 
-Incluya en el repositorio, como mínimo:
-
 - Carpeta **Backend** (código + `taller_ux.db`).
 - Carpeta **Frontend** (código + carpeta **images** con el logo).
 - **main.py** en la raíz.
-- Archivo/informe de **Power BI** si la rúbrica lo pide.
-- Este **README** para que quien clone el repo pueda instalar y ejecutar sin adivinar pasos.
+- Archivo/informe de **Power BI**
+- **README** para que quien clone el repo pueda instalar y ejecutar sin adivinar pasos.
 
 ---
 
